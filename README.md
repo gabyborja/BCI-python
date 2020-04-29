@@ -1,7 +1,9 @@
 # BCI-python
-Predicting finger flexion using intracranial EEG / ECoG (4th BCI Competition problem)
 
-Revisiting my BE521 Final Project from Spring 2016
+## Predicting finger flexion using intracranial EEG / ECoG (4th BCI Competition problem)
+
+Revisiting my BE521 Final Project from Spring 2016. 
+
 The task is to develop an algorithm to use the ECoG to predict finger flexion that is captured by the Data Glove
 
 The Dataset is taken from the IEEG portal and contains 3 subjects. Data is split up as follows: 
